@@ -4,7 +4,7 @@
 
     <groupId>io.github.rkmsh</groupId>
     <artifactId>jwt-tool</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>A minimal simple JWT utility.</name>
@@ -33,7 +33,7 @@
         <connection>scm:git:https://github.com/rkmsh/jwt-tool.git</connection>
         <developerConnection>scm:git:https://github.com/rkmsh/jwt-tool.git</developerConnection>
         <url>https://github.com/rkmsh/jwt-tool</url>
-        <tag>jwt-tool-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
