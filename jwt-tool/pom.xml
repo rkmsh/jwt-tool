@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.rkmsh</groupId>
     <artifactId>jwt-tool</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <name>A minimal simple JWT utility.</name>
@@ -35,7 +33,7 @@
         <connection>scm:git:https://github.com/rkmsh/jwt-tool.git</connection>
         <developerConnection>scm:git:https://github.com/rkmsh/jwt-tool.git</developerConnection>
         <url>https://github.com/rkmsh/jwt-tool</url>
-        <tag>HEAD</tag>
+        <tag>jwt-tool-0.0.1</tag>
     </scm>
 
     <properties>
